@@ -17,7 +17,7 @@ h1 {
   font-weight: 900;
 }
 h2 {
-  color: #7ece90;
+  color: #01aba3;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -25,7 +25,7 @@ h2 {
 a {
   font-family: "Roboto", sans-serif;
   text-decoration: none;
-  color: #6b72e1;
+  color: #01aba3;
   font-weight: 600;
   font-size: 16px;
 }
@@ -70,13 +70,13 @@ a:hover {
   border-radius: 50%;
 }
 .btn-blue {
-  background-color: #6b72e1;
+  background-color: #01aba3;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
 }
 .btn-blue:hover {
-  background-color: black;
+  background-color: #00837c;
   color: white;
 }
 .list-inline {
